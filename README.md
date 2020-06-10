@@ -1,7 +1,7 @@
 # niber
 I-DE daily data scrapper
 
-Poor coded proof of concept on scrapping daily consumption data from Iberdrola I-DE website.
+Poorly coded proof of concept on scrapping daily consumption data from Iberdrola I-DE website.
 As I-DE API is blocked to automated querys with a catpcha, creative methods are needed.
 
 This code will require dependencies like geckodriver, selenium and others not (yet) described here.
